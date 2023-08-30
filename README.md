@@ -9,7 +9,8 @@ Tech skills used professionally:
 - Rust         ⭐⭐⭐
 - Javascript   ⭐⭐⭐
 - Game dev     ⭐⭐⭐
-- Mithril      ⭐⭐⭐
+- Webgl/Opengl ⭐⭐⭐
+- Mithril.js   ⭐⭐⭐
 - SQL          ⭐⭐
 - Google Cloud ⭐⭐
 - Python       ⭐⭐
@@ -20,6 +21,8 @@ Tech skills used professionally:
 - C#           ⭐
 - Linux        ⭐
 ```
+
+
 
 <!--
 **Ruddle/Ruddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
