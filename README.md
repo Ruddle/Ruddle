@@ -1,4 +1,25 @@
-### Hi there 👋
+- Software engineer
+- Serial startup co-founder for 7 years
+- Now tech consultant
+
+Looking for work ! 
+
+Tech skills used professionally: 
+```
+- Rust         ⭐⭐⭐
+- Javascript   ⭐⭐⭐
+- Game dev     ⭐⭐⭐
+- Mithril      ⭐⭐⭐
+- SQL          ⭐⭐
+- Google Cloud ⭐⭐
+- Python       ⭐⭐
+- React        ⭐⭐
+- Scala        ⭐⭐
+- Kotlin       ⭐
+- C            ⭐
+- C#           ⭐
+- Linux        ⭐
+```
 
 <!--
 **Ruddle/Ruddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
