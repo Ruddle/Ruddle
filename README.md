@@ -23,3 +23,7 @@ Looking for work !
 - Linux        ⭐
 - VR/AR        ⭐    
 ```
+
+[CV/Resume Français](https://rxresu.me/r/m2IrBMMh)
+
+[CV/Resume English](https://rxresu.me/r/B5qmuNVv)
